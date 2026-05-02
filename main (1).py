@@ -1,4 +1,4 @@
-
+#List to store assignments
 assignment_list = []
 
 
